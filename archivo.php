@@ -1,3 +1,3 @@
 <?php
-// estos son los nuevos cambios
+// estos los son nuevos cambios
 ?>
